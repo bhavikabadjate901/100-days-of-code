@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: June 17 2020
 
 **Today's Progress**: just started with HTML,CSS on freeCodeCamp
 
