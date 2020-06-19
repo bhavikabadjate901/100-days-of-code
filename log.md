@@ -10,7 +10,8 @@
 
 
 
-**Day 2:** June 18, 2020 #100DaysOfCode 
+
+### Day 2:** June 18, 2020 #100DaysOfCode 
 
 **Today's Progress:**
 
