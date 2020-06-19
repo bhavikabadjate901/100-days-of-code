@@ -25,3 +25,16 @@
 
    If you do things like how everyone else does it, you'll end up getting the same results as they do.
    
+  
+  
+## Day 3: June 19 #100DaysOfCode @treehouse
+
+**Today's Progress/New thing learned:**
+
+   Today I learn lot of things like SQL and some more terminal commands.
+   
+**Thoughts:**
+
+  The day was too hectic while error occurs in code still at the end this efforts gives me lot happiness.Grinning face with smiling eyes
+
+   
