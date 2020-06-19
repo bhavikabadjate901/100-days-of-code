@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 17 2020
+### Day 1: June 17 2020
 
 **Today's Progress**: just started with HTML,CSS on freeCodeCamp
 
@@ -11,7 +11,7 @@
 
 
 
-### Day 2:** June 18, 2020 #100DaysOfCode 
+### Day 2: June 18, 2020 #100DaysOfCode 
 
 **Today's Progress:**
 
